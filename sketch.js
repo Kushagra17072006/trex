@@ -20,7 +20,7 @@ function preload(){
   cloudImage = loadImage("./cloud.png");
   jumpSound = loadSound ("./jump.mp3");
   dieSound = loadSound ("./die.mp3");
-  checkpointSound = loadSound("./checkpoint.mp3");
+  checkpointSound = loadSound("./checkPoint.mp3");
   
   
   gameOverImg = loadImage ("./gameOver.png");
